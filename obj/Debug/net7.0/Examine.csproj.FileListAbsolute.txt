@@ -1,0 +1,14 @@
+E:\Паша_Geekbrains\Examine\bin\Debug\net7.0\Examine.exe
+E:\Паша_Geekbrains\Examine\bin\Debug\net7.0\Examine.deps.json
+E:\Паша_Geekbrains\Examine\bin\Debug\net7.0\Examine.runtimeconfig.json
+E:\Паша_Geekbrains\Examine\bin\Debug\net7.0\Examine.dll
+E:\Паша_Geekbrains\Examine\bin\Debug\net7.0\Examine.pdb
+E:\Паша_Geekbrains\Examine\obj\Debug\net7.0\Examine.GeneratedMSBuildEditorConfig.editorconfig
+E:\Паша_Geekbrains\Examine\obj\Debug\net7.0\Examine.AssemblyInfoInputs.cache
+E:\Паша_Geekbrains\Examine\obj\Debug\net7.0\Examine.AssemblyInfo.cs
+E:\Паша_Geekbrains\Examine\obj\Debug\net7.0\Examine.csproj.CoreCompileInputs.cache
+E:\Паша_Geekbrains\Examine\obj\Debug\net7.0\Examine.dll
+E:\Паша_Geekbrains\Examine\obj\Debug\net7.0\refint\Examine.dll
+E:\Паша_Geekbrains\Examine\obj\Debug\net7.0\Examine.pdb
+E:\Паша_Geekbrains\Examine\obj\Debug\net7.0\Examine.genruntimeconfig.cache
+E:\Паша_Geekbrains\Examine\obj\Debug\net7.0\ref\Examine.dll
